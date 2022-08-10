@@ -1,0 +1,16 @@
+{
+  "name": "express-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "André Aguiar <andre@ciphine.com> [https://ciphine.com/]",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.5",
+    "typescript": "^4.7.4"
+  }
+}
